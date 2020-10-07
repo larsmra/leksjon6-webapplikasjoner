@@ -3,4 +3,5 @@
 ## For å kjøre applikasjonen:
 
 > npm install
+>
 > npm run dev
