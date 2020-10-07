@@ -1,7 +1,7 @@
 {
   "name": "todos_leksjon6",
   "version": "1.0.0",
-  "description": "> npm install\r >\r > npm run dev",
+  "description": "",
   "main": "./src/index.js",
   "author": "",
   "license": "ISC",
