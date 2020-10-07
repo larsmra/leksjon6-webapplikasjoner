@@ -1,5 +1,5 @@
 {
-  "name": "todos",
+  "name": "todos_leksjon6",
   "version": "1.0.0",
   "description": "> npm install\r >\r > npm run dev",
   "main": "./src/index.js",

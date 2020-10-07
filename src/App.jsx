@@ -8,9 +8,9 @@ import Modal from './components/Modal';
 let todoId = 0;
 
 const App = () => {
-  const [modal, setModal] = useState(false);
   const [todos, setTodos] = useState([]);
   const [completedTodos, setCompletedTodos] = useState([]);
+  const [modal, setModal] = useState(false);
 
   const incrementId = () => (todoId += 1);
 
