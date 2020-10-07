@@ -1,7 +1,7 @@
 {
   "name": "todos",
   "version": "1.0.0",
-  "description": "",
+  "description": "> npm install\r >\r > npm run dev",
   "main": "./src/index.js",
   "author": "",
   "license": "ISC",
@@ -41,5 +41,10 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsmra/leksjon6-webapplikasjoner.git"
+  },
+  "homepage": "https://github.com/larsmra/leksjon6-webapplikasjoner#readme"
 }
